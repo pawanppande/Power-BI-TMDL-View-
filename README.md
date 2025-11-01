@@ -34,44 +34,44 @@ Easier to version-control in Git
 
 Here’s what TMDL View enables:
 
-1. Full Transparency
+### 1. Full Transparency
 
 You can now see:
 
-Column definitions
+1. Column definitions
 
-DAX measures
+2. DAX measures
 
-Calculation groups
+3. Calculation groups
 
-Data sources
+4. Data sources
 
-Relationships
+5. Relationships
 
-…all in plain text!
+6. …all in plain text!
 
-2. Version Control (CI/CD Made Easy)
+### 2. Version Control (CI/CD Made Easy)
 
 Before TMDL, semantic models were binary and hard to diff.
 Now:
 
-Git diff works 
+1. Git diff works 
 
-Pull requests are meaningful 
+2. Pull requests are meaningful 
 
-Code reviews are possible 
+3. Code reviews are possible 
 
-3. Team Collaboration
+### 3. Team Collaboration
 
 Multiple developers can now:
 
-Work on the same model
+1. Work on the same model
 
-Track model changes
+2. Track model changes
 
-Avoid overwriting each other’s work
+3. Avoid overwriting each other’s work
 
-4. Better Documentation
+### 4. Better Documentation
 
 The model essentially documents itself — no more guessing where measures or relationships come from.
 
