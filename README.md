@@ -157,7 +157,7 @@ Below some of my steps which I personally follow to create quick measures using 
 5. You can create separate scripts for each type of measure you would like to add and then debug it as well.
 
 
-The above example is more generalize example and I feel it, developer will definitily going to use it at some time. Other advantages of TMDL view I already explained in teh above post.
+The above example is more generalize example and I feel it, developer will definitily going to use it at some time. Other advantages of TMDL view I already explained in the above post.
 
 
 
