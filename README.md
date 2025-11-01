@@ -1,7 +1,7 @@
 # Power-BI-TMDL-View-
 A comprehensive guide to Power BI Tabular Model Definition Language (TMDL) with practical examples, best practices, and quick reference notes for data modeling.
 
-🚀 Power BI just got even more powerful!
+Power BI just got even more powerful!
 If you’ve ever struggled with understanding, documenting, or version-controlling your semantic models, then the TMDL View (Tabular Model Definition Language) is something you must explore.
 
 In this post, I’ll explain what TMDL View is, why it matters, and how you can start using it today.
